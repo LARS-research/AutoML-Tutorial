@@ -4,7 +4,9 @@
 
 ### What is Automated machine learning (AutoML) - A retrospective view
 > Speaker: Dr. Quanming Yao (4Paradigm)
+
 > Time: 2020/08/24 4.00-5.00AM (50mins talk + 10mins QA)
+
 > Slides: 
 
 ### Recommdation System: Basic and Why AutoML is Needed?
