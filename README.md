@@ -2,7 +2,7 @@
 
 [![KDD-2020](images/KDD.png "KDD-2020")](images/KDD.png)  [![KDD-2020](images/4PA.jpg "4Paradigm")](images/4PA.jpg)  [![KDD-2020](images/THU.jpg "Tsinghua")](images/THU.jpg)
 
-As the recommendation tasks are getting more diverse and the recommending models are growing more complicated, it is increasingly challenging to develop a proper recommendation system that can adapt well to a new recommendation task. In this tutorial, we focus on how automated machine learning (AutoML) techniques can benefit the design and usage of recommendation systems. Specifically, we start from a full scope describing what can be automated for recommendation systems. Then, we elaborate more on three important topics under such a scope, i.e., feature engineering, hyperparameter optimization/neural architecture search, and algorithm selection. The core issues and recent works under these topics will be introduced, summarized, and discussed. Finally, we finalize the tutorial with conclusions and some future directions.
+As the recommendation tasks are getting more diverse and the recommending models are growing more complicated, it is increasingly challenging to develop a proper recommendation system that can adapt well to a new recommendation task. In this tutorial, we focus on how automated machine learning (AutoML) techniques can benefit the design and usage of recommender systems. Specifically, we start from a full scope describing what can be automated for recommendation systems. Then, we elaborate more on three important topics under such a scope, i.e., feature engineering, hyperparameter optimization/neural architecture search, and algorithm selection. The core issues and recent works under these topics will be introduced, summarized, and discussed. Finally, we finalize the tutorial with conclusions and some future directions.
 
 > Dates: 2020/08/24 - 4.00-8.00AM (Beijing Time)
 
@@ -19,21 +19,21 @@ This tutorial is part of "KDD 2020 Tutorial: Advances in Recommender Systems" [(
 
 > Slides: [LINK](slides/Part1-AutoML.pdf)
 
-### Recommdation System: Basic and Why AutoML is Needed?
+### Recommender System: Basic and Why AutoML is Needed?
 > Speaker: Prof. Yong Li (Tsinghua)
 
 > Time: 5.00-5.40AM (35mins talk + 5mins QA)
 
 > Slides: [LINK](slides/Part2-RS.pdf)
 
-### Recent Advances in Automated Recommander System
+### Recent Advances in Automated Recommender System
 > Speaker: Mr. Chen Gao (Tsinghua)
 
 > Time: 5.40-6.20AM (35mins talk + 5mins QA)
 
 > Slides: [LINK](slides/Part3_Adv.pdf)
 
-### Automated Graph Neural Network for Recommendation System
+### Automated Graph Neural Network for Recommender System
 > Speaker: Dr. Huan Zhao (4Paradigm)
 
 > Time: 6.20-7.00AM (35mins talk + 5mins QA)
