@@ -1,6 +1,6 @@
 # KDD-2020-Tutor: Automated Recommander System
 
-[![KDD-2020](images/KDD.png "KDD-2020")](images/KDD.png) 
+[![KDD-2020](images/KDD.png "KDD-2020")](images/KDD.png)  [![KDD-2020](images/4PA.jpg "4Paradigm")](images/4PA.jpg)  [![KDD-2020](images/THU.jpg "Tsinghua")](images/THU.jpg)
 
 As the recommendation tasks are getting more diverse and the recommending models are growing more complicated, it is increasingly challenging to develop a proper recommendation system that can adapt well to a new recommendation task. In this tutorial, we focus on how automated machine learning (AutoML) techniques can benefit the design and usage of recommendation systems. Specifically, we start from a full scope describing what can be automated for recommendation systems. Then, we elaborate more on three important topics under such a scope, i.e., feature engineering, hyperparameter optimization/neural architecture search, and algorithm selection. The core issues and recent works under these topics will be introduced, summarized, and discussed. Finally, we finalize the tutorial with conclusions and some future directions.
 
@@ -52,6 +52,5 @@ As the recommendation tasks are getting more diverse and the recommending models
 - Q. Yao, M. Wang, Y. Li, W. Tu, Q. Yang, Y. Yu. Taking Human out of Learning Applications: A Survey on Automated Machine Learning. Arvix. Nov. 2018.
 - H. Zhao, Q. Yao, J. Li, Y. Song, D. Lee. Meta-Graph Based Recommendation Fusion over Heterogeneous Information Networks. KDD. 2017
 
-### Acknowledgement
 
-[![KDD-2020](images/4PA.jpg "4Paradigm")](images/4PA.jpg)    [![KDD-2020](images/THU.jpg "Tsinghua")](images/THU.jpg)
+
