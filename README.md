@@ -18,17 +18,17 @@ As the recommendation tasks are getting more diverse and the recommending models
 
 > Slides: 
 
-### Automated Graph Neural Network for Recommendation System
-> Speaker: Dr. Huan Zhao (4Paradigm)
-
-> Time: 5.40-6.20AM (35mins talk + 5mins QA)
-
-> Slides: 
-
 ### Recent Advances in Automated Recommander System
 > Speaker: Mr. Chen Gao (Tsinghua)
 
 > Time: 6.20-7.00AM (35mins talk + 5mins QA)
+
+> Slides: 
+
+### Automated Graph Neural Network for Recommendation System
+> Speaker: Dr. Huan Zhao (4Paradigm)
+
+> Time: 5.40-6.20AM (35mins talk + 5mins QA)
 
 > Slides: 
 
