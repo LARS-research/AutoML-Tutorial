@@ -40,7 +40,7 @@ As the recommendation tasks are getting more diverse and the recommending models
 > Slides: 
 
 #### Related Publications
-- Q. Yao, X. Chen, J. Kwok, Y. Li, C.-J. Hsieh. Efficient Neural Interaction Functions Search for Collaborative Filtering. WWW. 2020
+- Q. Yao, X. Chen, J. Kwok, Y. Li, C.-J. Hsieh. Efficient Neural Interaction Functions Search for Collaborative Filtering. Webconf. 2020
 - Q. Yao, J. Xu, W. Tu, Z. Zhu. Efficient Neural Architecture Search via Proximal Iterations. AAAI. 2020
 - Y. Zhang, Q. Yao, W. Dai, L. Chen. AutoSF: Searching Scoring Functions for Knowledge Graph Embedding. ICDE. 2020.
 - X. Wang, X. He, M. Wang, F. Feng, TS Chua. Neural graph collaborative filtering. SIGIR. 2019.
