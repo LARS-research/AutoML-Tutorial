@@ -13,35 +13,35 @@ The Tutorial is hold online, and is avaliable via [Zoom](https://zoom.us/downloa
 This tutorial is part of "KDD 2020 Tutorial: Advances in Recommender Systems" [(official site)](https://sites.google.com/view/kdd20-marketplace-autorecsys/).
 
 ### What is Automated machine learning (AutoML) - A retrospective view
-> Speaker: Dr. Quanming Yao (4Paradigm)
+> Speaker: [Dr. Quanming Yao](http://www.cse.ust.hk/~qyaoaa/) (4Paradigm)
 
 > Time: 4.00-5.00AM (50mins talk + 10mins QA)
 
 > Slides: [LINK](slides/Part1-AutoML.pdf)
 
 ### Recommender System: Basic and Why AutoML is Needed?
-> Speaker: Prof. Yong Li (Tsinghua)
+> Speaker: [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/) (Tsinghua)
 
 > Time: 5.00-5.40AM (35mins talk + 5mins QA)
 
 > Slides: [LINK](slides/Part2-RS.pdf)
 
 ### Recent Advances in Automated Recommender System
-> Speaker: Mr. Chen Gao (Tsinghua)
+> Speaker: [Mr. Chen Gao](https://scholar.google.com/citations?user=Af60_cEAAAAJ&hl=en) (Tsinghua)
 
 > Time: 5.40-6.20AM (35mins talk + 5mins QA)
 
 > Slides: [LINK](slides/Part3_Adv.pdf)
 
 ### Automated Graph Neural Network for Recommender System
-> Speaker: Dr. Huan Zhao (4Paradigm)
+> Speaker: [Dr. Huan Zhao](https://hzhaoaf.github.io/) (4Paradigm)
 
 > Time: 6.20-7.00AM (35mins talk + 5mins QA)
 
 > Slides: [LINK](slides/Part4-AutoGraph.pdf)
 
 ### Automated Knowledge Graph Embedding
-> Speaker: Dr. Yongqi Zhang (4Paradigm)
+> Speaker: [Dr. Yongqi Zhang](https://scholar.google.com/citations?user=nVk-7EAAAAAJ&hl=zh-CN) (4Paradigm)
 
 > Time: 7.00-7.40AM (35mins talk + 5mins QA)
 
