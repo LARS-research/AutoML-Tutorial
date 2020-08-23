@@ -6,11 +6,9 @@ As the recommendation tasks are getting more diverse and the recommending models
 
 > Dates: 2020/08/24 - 4.00-8.00AM (Beijing Time)
 
-The Tutorial is hold online, and is avaliable at:
+The Tutorial is hold online, and is avaliable via [Zoom](https://zoom.us/download) at:
 
 > Zoom ID: https://zoom.us/j/99655780785, Password: RnNhVXhhYmZRL0E5Y04rOUM5Uk9ndz09 
-
-Zoom can be downloaded from [here](https://zoom.us/download)
 
 ### What is Automated machine learning (AutoML) - A retrospective view
 > Speaker: Dr. Quanming Yao (4Paradigm)
