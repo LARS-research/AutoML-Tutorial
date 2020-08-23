@@ -37,7 +37,7 @@ As the recommendation tasks are getting more diverse and the recommending models
 
 > Time: 7.20-8.00AM (35mins talk + 5mins QA)
 
-> Slides: 
+> Slides: [Github-LINK](slides/Part5-KG.pdf)
 
 #### Related Publications
 - Q. Yao, X. Chen, J. Kwok, Y. Li, C.-J. Hsieh. Efficient Neural Interaction Functions Search for Collaborative Filtering. Webconf. 2020
