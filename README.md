@@ -1,4 +1,4 @@
-# KDD-2020-Tutorial: Automated Recommander System
+# KDD-2020-Tutorial: Automated Recommender System
 
 [![KDD-2020](images/KDD.png "KDD-2020")](images/KDD.png)  [![KDD-2020](images/4PA.jpg "4Paradigm")](images/4PA.jpg)  [![KDD-2020](images/THU.jpg "Tsinghua")](images/THU.jpg)
 
