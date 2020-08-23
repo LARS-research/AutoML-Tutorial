@@ -9,7 +9,7 @@ As the recommendation tasks are getting more diverse and the recommending models
 
 > Time: 4.00-5.00AM (50mins talk + 10mins QA)
 
-> Slides: 
+> Slides: [Github-LINK](slides/Part1-AutoML.pdf)
 
 ### Recommdation System: Basic and Why AutoML is Needed?
 > Speaker: Prof. Yong Li (Tsinghua)
