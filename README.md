@@ -54,6 +54,4 @@ As the recommendation tasks are getting more diverse and the recommending models
 
 ### Acknowledgement
 
-[![KDD-2020](images/4PA.jpg "4Paradigm")](images/4PA.jpg)  
-
-[![KDD-2020](images/THU.jpg "Tsinghua")](images/THU.jpg)
+[![KDD-2020](images/4PA.jpg "4Paradigm")](images/4PA.jpg)    [![KDD-2020](images/THU.jpg "Tsinghua")](images/THU.jpg)
