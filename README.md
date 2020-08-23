@@ -16,16 +16,16 @@ As the recommendation tasks are getting more diverse and the recommending models
 ### Recommdation System: Basic and Why AutoML is Needed?
 > Speaker: Prof. Yong Li (Tsinghua)
 
-> Time: 5.00-5.40AM (35mins talk + 10mins QA)
+> Time: 5.00-5.40AM (35mins talk + 5mins QA)
 
-> Slides: 
+> Slides: [LINK](slides/Part2-RS.pdf)
 
 ### Recent Advances in Automated Recommander System
 > Speaker: Mr. Chen Gao (Tsinghua)
 
 > Time: 5.40-6.20AM (35mins talk + 5mins QA)
 
-> Slides: 
+> Slides: [LINK](slides/Part3_Adv.pdf)
 
 ### Automated Graph Neural Network for Recommendation System
 > Speaker: Dr. Huan Zhao (4Paradigm)
