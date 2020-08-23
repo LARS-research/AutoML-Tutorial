@@ -48,6 +48,7 @@ This tutorial is part of "KDD 2020 Tutorial: Advances in Recommender Systems" [(
 > Slides: [LINK](slides/Part5-KG.pdf)
 
 #### Related Publications
+- Y. Zhang, Q. Yao Neural Recurrent Structure Search for Knowledge Graph Embedding. International Workshop on Knowledge Graph@KDD. 2020.
 - Q. Yao, X. Chen, J. Kwok, Y. Li, C.-J. Hsieh. Efficient Neural Interaction Functions Search for Collaborative Filtering. Webconf. 2020
 - Q. Yao, J. Xu, W. Tu, Z. Zhu. Efficient Neural Architecture Search via Proximal Iterations. AAAI. 2020
 - Y. Zhang, Q. Yao, W. Dai, L. Chen. AutoSF: Searching Scoring Functions for Knowledge Graph Embedding. ICDE. 2020.
