@@ -10,7 +10,7 @@ The Tutorial is hold online, and is avaliable via [Zoom](https://zoom.us/downloa
 
 > Zoom ID: https://zoom.us/j/99655780785, Password: RnNhVXhhYmZRL0E5Y04rOUM5Uk9ndz09 
 
-This tutorial is part of KDD 2020 Tutorial: Advances in Recommender Systems [(official site)](https://sites.google.com/view/kdd20-marketplace-autorecsys/).
+This tutorial is part of "KDD 2020 Tutorial: Advances in Recommender Systems" [(official site)](https://sites.google.com/view/kdd20-marketplace-autorecsys/).
 
 ### What is Automated machine learning (AutoML) - A retrospective view
 > Speaker: Dr. Quanming Yao (4Paradigm)
