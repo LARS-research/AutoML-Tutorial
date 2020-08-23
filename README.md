@@ -1,10 +1,16 @@
-# KDD-2020-Tutor: Automated Recommander System
+# KDD-2020-Tutorial: Automated Recommander System
 
 [![KDD-2020](images/KDD.png "KDD-2020")](images/KDD.png)  [![KDD-2020](images/4PA.jpg "4Paradigm")](images/4PA.jpg)  [![KDD-2020](images/THU.jpg "Tsinghua")](images/THU.jpg)
 
 As the recommendation tasks are getting more diverse and the recommending models are growing more complicated, it is increasingly challenging to develop a proper recommendation system that can adapt well to a new recommendation task. In this tutorial, we focus on how automated machine learning (AutoML) techniques can benefit the design and usage of recommendation systems. Specifically, we start from a full scope describing what can be automated for recommendation systems. Then, we elaborate more on three important topics under such a scope, i.e., feature engineering, hyperparameter optimization/neural architecture search, and algorithm selection. The core issues and recent works under these topics will be introduced, summarized, and discussed. Finally, we finalize the tutorial with conclusions and some future directions.
 
 > Dates: 2020/08/24 - 4.00-8.00AM (Beijing Time)
+
+The Tutorial is hold online, and is avaliable at:
+
+> Zoom ID: https://zoom.us/j/99655780785, Password: RnNhVXhhYmZRL0E5Y04rOUM5Uk9ndz09 
+
+Zoom can be downloaded from [here](https://zoom.us/download)
 
 ### What is Automated machine learning (AutoML) - A retrospective view
 > Speaker: Dr. Quanming Yao (4Paradigm)
