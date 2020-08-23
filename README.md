@@ -9,35 +9,35 @@ As the recommendation tasks are getting more diverse and the recommending models
 
 > Time: 4.00-5.00AM (50mins talk + 10mins QA)
 
-> Slides: [Github-LINK](slides/Part1-AutoML.pdf)
+> Slides: [LINK](slides/Part1-AutoML.pdf)
 
 ### Recommdation System: Basic and Why AutoML is Needed?
 > Speaker: Prof. Yong Li (Tsinghua)
 
-> Time: 5.00-6.00AM (50mins talk + 10mins QA)
-
-> Slides: 
-
-### Automated Graph Neural Network for Recommendation System
-> Speaker: Dr. Huan Zhao (4Paradigm)
-
-> Time: 6.00-6.40AM (35mins talk + 5mins QA)
+> Time: 5.00-5.40AM (35mins talk + 10mins QA)
 
 > Slides: 
 
 ### Recent Advances in Automated Recommander System
 > Speaker: Mr. Chen Gao (Tsinghua)
 
-> Time: 6.40-7.20AM (35mins talk + 5mins QA)
+> Time: 6.20-7.00AM (35mins talk + 5mins QA)
+
+> Slides: 
+
+### Automated Graph Neural Network for Recommendation System
+> Speaker: Dr. Huan Zhao (4Paradigm)
+
+> Time: 5.40-6.20AM (35mins talk + 5mins QA)
 
 > Slides: 
 
 ### Automated Knowledge Graph Embedding
 > Speaker: Dr. Yongqi Zhang (4Paradigm)
 
-> Time: 7.20-8.00AM (35mins talk + 5mins QA)
+> Time: 7.00-7.40AM (35mins talk + 5mins QA)
 
-> Slides: [Github-LINK](slides/Part5-KG.pdf)
+> Slides: [LINK](slides/Part5-KG.pdf)
 
 #### Related Publications
 - Q. Yao, X. Chen, J. Kwok, Y. Li, C.-J. Hsieh. Efficient Neural Interaction Functions Search for Collaborative Filtering. Webconf. 2020
