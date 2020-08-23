@@ -1,6 +1,6 @@
 # KDD-2020-Tutor: Automated Recommander System
 
-[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](images/KDD.png)
+[![KDD-2020](images/KDD.png "KDD-2020")](images/KDD.png)
 
 As the recommendation tasks are getting more diverse and the recommending models are growing more complicated, it is increasingly challenging to develop a proper recommendation system that can adapt well to a new recommendation task. In this tutorial, we focus on how automated machine learning (AutoML) techniques can benefit the design and usage of recommendation systems. Specifically, we start from a full scope describing what can be automated for recommendation systems. Then, we elaborate more on three important topics under such a scope, i.e., feature engineering, hyperparameter optimization/neural architecture search, and algorithm selection. The core issues and recent works under these topics will be introduced, summarized, and discussed. Finally, we finalize the tutorial with conclusions and some future directions.
 
