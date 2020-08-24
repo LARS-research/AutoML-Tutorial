@@ -59,6 +59,20 @@ This tutorial is part of "KDD 2020 Tutorial: Advances in Recommender Systems" [(
 - Q. Yao, M. Wang, Y. Li, W. Tu, Q. Yang, Y. Yu. Taking Human out of Learning Applications: A Survey on Automated Machine Learning. Arvix. Nov. 2018.
 - H. Zhao, Q. Yao, J. Li, Y. Song, D. Lee. Meta-Graph Based Recommendation Fusion over Heterogeneous Information Networks. KDD. 2017
 
+#### Citation
+
+If you feel the tutorial is helpful, please ack
+
+```
+@inproceedings{10.1145/3394486.3406463,
+author = {Mehrotra, Rishabh and Carterette, Ben and Li, Yong and Yao, Quanming and Gao, Chen and Kwok, James and Yang, Qiang and Guyon, Isabelle},
+title = {Advances in Recommender Systems: From Multi-Stakeholder Marketplaces to Automated RecSys},
+year = {2020},
+url = {https://doi.org/10.1145/3394486.3406463},
+series = {KDD '20}
+}
+```
+
 ## New Opportunities
 - Interns, research assistants, and researcher positions are available. See [requirement](http://www.cse.ust.hk/~qyaoaa/pages/job-ad.pdf)
 
