@@ -1,1 +1,1 @@
-## Welcome to Weakly Supervised Learning Workshop Series
+## Welcome to Automated Machine Learning Series
