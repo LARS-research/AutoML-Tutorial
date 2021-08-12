@@ -4,12 +4,12 @@
     
 
 <!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>Welcome to IJCAI2021 Learning with Noisy Supervision Tutorial</title>
+<title>Welcome to IJCAI2021 Automated Recommender System Tutorial</title>
 <meta name="generator" content="Jekyll v3.8.5">
-<meta property="og:title" content="Welcome to SDM2020 Weakly-supervised and Unsupervised Learning Workshop">
+<meta property="og:title" content="Welcome to IJCAI2021 Automated Recommender System Tutorial">
 <meta property="og:locale" content="en_US">
-<meta name="description" content="SDM2020 Weakly-supervised and Unsupervised Learning Workshop">
-<meta property="og:description" content="SDM2020 Weakly-supervised and Unsupervised Learning Workshop">
+<meta name="description" content="Welcome to IJCAI2021 Automated Recommender System Tutorial">
+<meta property="og:description" content="Welcome to IJCAI2021 Automated Recommender System Tutorial">
 <link rel="canonical" href="https://quanmingyao.github.io/AutoML.github.io/">
 <meta property="og:url" content="https://quanmingyao.github.io/AutoML.github.io/">
 <meta property="og:site_name" content="wsl-workshop.github.io">
@@ -17,18 +17,18 @@
 {"@type":"WebSite","url":"https://quanmingyao.github.io/AutoML.github.io/","name":"wsl-workshop.github.io","headline":"Welcome to SDM2020 Weakly-supervised and Unsupervised Learning Workshop","description":"ACML19 Weakly-supervised Learning Workshop","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <link rel="stylesheet" href="./style.css">
-  </head>
-  <body>
-    <section class="page-header">
-      <h1 class="project-name">IJCAI2021 Tutorial</h1>
-      <h2 class="project-tagline">Learning with Noisy Supervision, Aug, Online</h2>  
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#157878">
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<section class="page-header">
+<h1 class="project-name">IJCAI2021 Tutorial</h1>
+<h2 class="project-tagline">Towards Automated Recommender System, Aug, Online</h2>  
 
-    </section>
+</section>
 
-    <section class="main-content">
+<section class="main-content">
 <!--       <h2 id="May 9th, Cincinnati, Ohio, United States">May 9th, Cincinnati, Ohio, United States
 </h2> -->
 
@@ -38,7 +38,38 @@
 
 <h1 id="topic-summary">Abstract</h1>
 
-<p>Machine learning should benefit to the whole world, especially for developing countries in Africa and Asia. When dataset sizes grow bigger, it is laborious and expensive to obtain clean supervision, especially for developing countries. As a result, the volume of noisy supervision becomes enormous, e.g., web-scale image and speech data with noisy labels. However, standard machine learning assumes that the supervised information is fully clean and intact. Therefore, noisy data harms the performance of most of the standard learning algorithms, and sometimes even makes existing algorithms break down. There are a brunch of theories and approaches proposed to deal with noisy data. As far as we know, label-noise learning spans over two important ages in machine learning: statistical learning (i.e., shallow learning) and deep learning. In the age of statistical learning, label-noise learning focused on designing noise-tolerant losses or unbiased risk estimators. Nonetheless, in the age of deep learning, label-noise learning has more options to combat with noisy labels, such as designing biased risk estimators or leveraging memorization effects of deep networks. In this tutorial, we summarize the foundations and go through the most recent noisy-supervision-tolerant techniques. By participating the tutorial, the audience will gain a broad knowledge of label-noise learning from the viewpoint of statistical learning theory, deep learning, detailed analysis of typical algorithms and frameworks, and their real-world applications in industry.</p>
+<p>Recommender system (RecSys) [3], which attempts to find what items a particular user wants, is an
+important area in data mining and machine learning. However, as the recommender task is getting more
+diverse and the recommending models are growing more complicated, it is more and more difficult to develop
+a proper RecSys that can adapt well to a new recommender task. Recently, the automated machine learning
+(AutoML) [1, 2], which targets at easing the usage of learning tools and designing task-dependent learning
+models, has become an important and popular area with both practical needs and research values.</p>
+
+<div style="text-align: center; width: 100%">
+<img style="text-align: center; width: 60%; height: auto" alt="My Photo" src="images/autors.PNG">
+<p> Figure 1: How AutoML and RecSys integrate and mutually benefit with each other.</p>
+
+</div>
+
+
+
+<p>
+Modern RecSys contains two phases, matching, and ranking (Figure 1). In the first phase, collaborative
+filtering (CF) models are employed to extract thousands of items from billion-scale items. The data input of
+this phase is mainly the user-item interaction history. Thus, the key to CF models is to compute the similarity
+between a user and an item through a designed interaction function. Considering the various task settings,
+i.e. datasets and evaluation metrics, the best choice of interaction function can vary, which can be searched
+by AutoML. In the second phase, feature-based recommender models, also known as click-through rate (CTR)
+prediction models, are utilized to further rank the output of the matching model. One of the most significant
+operations in this phase is to generate effective features for users and items given the input data. Therefore,
+AutoML-based feature generation methods can be deployed. From a wider perspective, the model training in
+both two phases is faced with the high cost of hyper-parameter tuning. Hyper-parameter optimization, a
+major direction of AutoML can help reduce human efforts in tuning recommendation models. On the other
+hand, the graph has been used to model the data in RecSys scenarios, and graph representation learning
+methods have been proposed for RecSys, among which graph neural networks have been quite popular. Then,
+AutoML, especially neural architecture search (NAS), can help reduce such efforts. Above all, AutoML can
+help to build RecSys from these four aspects (see red texts in Figure 1).
+</p>
 
 <h1 id="tentative-schedule">Schedule</h1>
 
@@ -59,11 +90,11 @@
     </tr>
 	<tr>
       <td>&nbsp;</td>
-      <td><strong>Title</strong>: Overview of Learning with Noisy Supervision</td>
+      <td><strong>Title</strong>: </td>
     </tr>
 	<tr>
       <td>&nbsp;</td>
-      <td><strong>Speaker</strong>: Masashi Sugiyama</td>
+      <td><strong>Speaker</strong>: </td>
     </tr>
     <tr>
       <td>14:15-15:15</td>
@@ -71,11 +102,11 @@
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><strong>Title</strong>: Statistical Learning with Noisy Supervision</td>
+      <td><strong>Title</strong>: </td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-        <td><strong>Speaker</strong>: Tongliang Liu</td>
+        <td><strong>Speaker</strong>: </td>
     </tr>
     <tr>
       <td>15:15-16:15</td>
@@ -83,11 +114,11 @@
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><strong>Title</strong>: Deep Learning with Noisy Supervision</td>
+      <td><strong>Title</strong>: </td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-        <td><strong>Speaker</strong>: Bo Han</td>
+        <td><strong>Speaker</strong>:</td>
     </tr>
     <tr>
       <td>16:15-17:15</td>
@@ -95,11 +126,11 @@
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><strong>Title</strong>: Automated Learning from Noisy Supervision</td>
+      <td><strong>Title</strong>:</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-        <td><strong>Speaker</strong>: Quanming Yao</td>
+        <td><strong>Speaker</strong>:</td>
     </tr>
 	<tr>
       <td>17:15-17:30</td>
@@ -107,11 +138,11 @@
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><strong>Title</strong>: From Noisy Supervision to other Weak Supervisions</td>
+      <td><strong>Title</strong>:</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-        <td><strong>Speaker</strong>: Gang Niu</td>
+        <td><strong>Speaker</strong>:</td>
     </tr>
   </tbody>
 </table>
@@ -122,54 +153,15 @@
 
 <h1 id="organizers">Organizers</h1>
 
-<p><a href="https://bhanml.github.io/">Bo Han</a>, Hong Kong Baptist University, Hong Kong SAR, China.</p>
-
-<p><a href="https://tongliang-liu.github.io/">Tongliang Liu</a>, The University of Sydney, Australia.</p>
-
-<p><a href="http://www.cse.ust.hk/~qyaoaa/">Quanming Yao</a>, Tsinghua University, China.</p>
-
-<p><a href="https://niug1984.github.io/">Gang Niu</a>, RIKEN, Japan.</p>
-
-<p><a href="http://www.ms.k.u-tokyo.ac.jp/sugi/">Masashi Sugiyama</a>, RIKEN / University of Tokyo, Japan.</p>
+<p><a href="http://www.cse.ust.hk/~qyaoaa/">Quanming Yao</a>,  Department of Electronic Engineering, Tsinghua University / 4Paradigm Inc. Beijing. China.</p>
 
 <h1 id="sponsors">References</h1>
-<p>Due to the space limitation, we only list highly-related papers. The full reference list can be found <a href="https://arxiv.org/pdf/2011.04406.pdf">here</a>.</p>
+<p>Due to the space limitation, we only list highly-related papers.</p>
 <p>
-1. B. Han, Q. Yao, T. Liu, G. Niu, I.W. Tsang, J.T. Kwok and M. Sugiyama. A Survey of Label-noise Representation Learning: Past, Present and Future. arXiv preprint arXiv:2011.04406, 2020.<br>
-2. N. Natarajan, I.S. Dhillon, P. K. Ravikumar and A. Tewari. Learning with Noisy Labels. In NeurIPS, 2013.<br>
-3. S. Reed, H. Lee, D. Anguelov, C. Szegedy, D. Erhan and A. Rabinovich. Training Deep Neural Networks on Noisy Labels with Bootstrapping. In ICLR Workshop, 2015.<br>
-4. T. Liu and D. Tao. Classification with Noisy Labels by Importance Reweighting. IEEE Transactions on Pattern Analysis and MachineIntelligence, 38(3): 447-461, 2015.<br>
-5. G. Patrini, A. Rozza, A. K. Menon, R. Nock and L. Qu. Making Deep Neural Networks Robust to Label Noise: A Loss Correction Approach. In CVPR, 2017.<br>
-6. L. Jiang, Z. Zhou, T. Leung, L.-J. Li and L. Fei-Fei. Mentornet: Learning Data-driven Curriculum for very Deep Neural Networks on Corrupted Labels. In ICML, 2018.<br>
-7. B. Han, Q. Yao, X. Yu, G. Niu, M. Xu, W. Hu, I.W. Tsang and M. Sugiyama. Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels. In NeurIPS, 2018.<br>
-8. B. Han, J. Yao, G. Niu, M. Zhou, I.W. Tsang, Y. Zhang and M. Sugiyama. Masking: A New Perspective of Noisy Supervision. In NeurIPS, 2018.<br>
-9. Q. Yao, M. Wang. Taking Human out of Learning Applications: A Survey on Automated Machine Learning. 
-arXiv preprint arXiv:1810.13306. 2018<br>
-10. X. Yu, B. Han, J. Yao, G. Niu, I.W. Tsang and M. Sugiyama. How does Disagreement Help Generalization against Label Corruption? In ICML, 2019.<br>
-11. X. Xia, T. Liu, N. Wang, B. Han, C. Gong, G. Niu, and M. Sugiyama. Are Anchor Points Really Indispensable in Label-Noise Learning? In NeurIPS, 2019.<br>
-12. J. Li, R. Socher, S. Hoi. DivideMix: Learning with Noisy Labels as Semi-supervised Learning. In ICLR, 2020.<br>
-13. Y. Yao, T. Liu, B. Han, M. Gong, J. Deng, G. Niu, and M. Sugiyama. Dual T: Reducing Estimation Error for Transition Matrix in Label-noise Learning. In NeurIPS, 2020.<br>
-14. X. Xia, T. Liu, B. Han, N. Wang, M. Gong, H. Liu, G. Niu, D. Tao, and M. Sugiyama. Part-dependent Label Noise: Towards Instance-dependent Label Noise. In NeurIPS, 2020.<br>
-15. J. Cheng, T. Liu, K. Rao, and D. Tao. Learning with Bounded Instance-and Label-dependent Label Noise.
-In ICML, 2020.<br>
-16. B. Han, G. Niu, X. Yu, Q. Yao, X. Miao, I.W. Tsang and M. Sugiyama. SIGUA: Forgetting May Make Learning with Noisy Labels More Robust. In ICML, 2020.<br>
-17. Y. Zhang, Q. Yao, L. Chen. Interstellar: Searching Recurrent Architecture for Knowledge Graph Embedding. 
-In NeurIPS, 2020.<br>
-18. Q. Yao, H. Yang, B. Han, G. Niu, J. Kwok. Searching to Exploit Memorization Effect in Learning from Noisy Labels. In ICML, 2020.<br>
-19. A. K. Menon, A. S. Rawat, S. J. Reddi and S. Kumar. Can Gradient Clipping Mitigate Label Noise? In ICLR, 2020.<br>
-20. X. Ma, H. Huang, Y. Wang, S. Romano, S. Erfani and J. Bailey. Normalized Loss Functions for Deep Learning with Noisy Labels. In ICML, 2020.<br>
-21. Q. Yao, J. Xu, W. Tu, Z. Zhu. Efficient Neural Architecture Search via Proximal Iterations. In AAAI, 2020.<br>
-22. H. Cheng, Z. Zhu, X. Li, Y. Gong, X. Sun and Y. Liu. Learning with Instance-dependent Label Noise: A Sample Sieve Approach. In ICLR, 2021.<br>
+1. .<br>
+2. .<br>
 </p>
-
-      <footer class="site-footer">
-        
-        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com/">GitHub Pages</a>.</span>
-      </footer>
-    </section>
-
-    
-  
+</section>
 
 </body></html>
 
