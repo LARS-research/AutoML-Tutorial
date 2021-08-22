@@ -1,5 +1,3 @@
-# IJCAI-2021-Tutorial: Automated Recommender System
-
 This tutorial is part of **IJCAI-2021 Tutorial: Advances in Recommender Systems** [(official site)](https://quanmingyao.github.io/AutoML.github.io/ijcai21-tutorial.html).
 
 #### Part 1: An introduction to Automated Machine Learning (AutoML)
