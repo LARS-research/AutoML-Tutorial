@@ -16,7 +16,7 @@ This tutorial is part of **IJCAI-2021 Tutorial: Advances in Recommender Systems*
 
 > Speaker: [Dr. Huan Zhao](https://hzhaoaf.github.io/) (4Paradigm)
 
-> Slides: [LINK](slides/Part3-AutoGraph.pdf)
+> Slides: [LINK](slides/part3-AutoGNN.pdf)
 
 #### Part 4: Automated Knowledge Graph Embedding
 
